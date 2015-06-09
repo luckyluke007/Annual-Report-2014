@@ -55,7 +55,7 @@ this.posterImage.show();
 					<div class="cbp-qtcontent">
 						<img src="images/profiles/dean-henry-mcHenry.jpg" alt="Dean McHenry and Henry McHenry" />
 						<blockquote>
-                        <h2>Mchenry’s legacy continues</h2>
+                        <h2>McHenry’s legacy continues</h2>
 						  <p>UC Santa Cruz’s founding chancellor Dean McHenry set the tone for the fledgling campus when it opened 50 years ago. Now his estate is sustaining his support of UC Santa Cruz long into the future.</p>
 						  <footer><a href="articles/mchenry-legacy-continues.php">Read More</a></footer>
 						</blockquote>

@@ -57,7 +57,7 @@
                     <p>Gutman said he’s honoring the fact that the campus contributed not just to his academic and intellectual growth but also to his personal development.</p>
                     <p>It was more than just the rigor of his science courses. It was the way these classes in different disciplines gave him multiple perspectives that allowed him to take on complex problems.</p>
                     <p>“The core writing course—Infectious Diseases and Society—was a great experience for me because it helped me write about how the sciences impacted society,” he said. “I took a philosophy course that I loved. It opened my mind to other ways of thinking that weren’t focused on sciences.”</p>
-                    <p>Gutman’s contributions are going to the Chancellor’s Discretionary Fund “because the university is in a challenging financial environment. I’m interested in furthering the mission of the university and hope it continues emphasizing its interdisciplinary approach.”</p>
+                    <p>Gutman’s contributions are going to the UCSC Fund “because the university is in a challenging financial environment. I’m interested in furthering the mission of the university and hope it continues emphasizing its interdisciplinary approach.”</p>
                 </div>
             </div>
         </div>

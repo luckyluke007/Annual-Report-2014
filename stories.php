@@ -12,6 +12,17 @@
             <div id="stories-container">
                 <ul>
                     <li>
+                        <img src="images/profiles/rickybuthenthal.jpg" width="400" height="400" alt="Ricky Bluthenthal" />
+                        <h3>Ricky Bluthenthal: Why do I give to UC Santa Cruz?</h3>
+                        <p>UC Santa Cruz had a big impact on my life when I was a student, and it still does. Being there helped me figure out how the world worked.
+                            
+                        </p>
+                        <p>
+                            <a href="articles/why-i-give-summer15.php" class="a_button_one">Read More »</a>
+                        </p>
+                    </li>
+
+                    <li>
                         <img src="images/profiles/gutman.jpg" width="400" height="400" alt="Siegmund Gutman" />
                         <h3>Gratitude for a life of discovery</h3>
                         <p>Siegmund Gutman attributes his life of discovery and inquiry to the interdisciplinary training he got at UC Santa Cruz. His way of expressing his gratitude? Monthly donations.</p>
@@ -21,7 +32,7 @@
                     </li>
                     <li>
                         <img src="images/profiles/dean-henry-mcHenry.jpg" width="400" height="400" alt="Dean McHenry and Henry McHenry" />
-                        <h3>Mchenry’s legacy continues</h3>
+                        <h3>McHenry’s legacy continues</h3>
                         <p>UC Santa Cruz’s founding chancellor Dean McHenry set the tone for the fledgling campus when it opened 50 years ago. Now his estate is sustaining his support of UC Santa Cruz long into the future.</p>
                         <p>
                             <a href="articles/mchenry-legacy-continues.php" class="a_button_one">Read More »</a>
@@ -43,16 +54,7 @@
                             <a href="articles/sustaining-her-vision.php" class="a_button_one">Read More »</a>
                         </p>
                     </li>
-                    <li>
-                        <img src="images/profiles/rickybuthenthal.jpg" width="400" height="400" alt="Ricky Bluthenthal" />
-                        <h3>Ricky Bluthenthal: Why do I give to UC Santa Cruz?</h3>
-                        <p>UC Santa Cruz had a big impact on my life when I was a student, and it still does. Being there helped me figure out how the world worked.
-                            
-                        </p>
-                        <p>
-                            <a href="articles/why-i-give-summer15.php" class="a_button_one">Read More »</a>
-                        </p>
-                    </li>
+                    
                 </ul>
                 <div class="clear"></div>
             </div>

@@ -49,7 +49,7 @@
                 </div>
                 <!-- FINAL -->
                 <div class="headline">
-                    <h2>Mchenry’s legacy continues</h2>
+                    <h2>McHenry’s legacy continues</h2>
                 </div>
                 <div class="bodycontent">
                     <p>UC Santa Cruz’s founding chancellor Dean McHenry set the tone for the campus’s remarkable combination of large research university sophistication and intimate residential colleges when it opened 50 years ago.</p>
